@@ -13,7 +13,7 @@ export default [
   },
   {
     id: '1',
-    image: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/2.jpg',
+    image: 'https://assets.bedful.com/images/a189d02301fb5fe2bd584f95330513f40e7f2327/large/image.jpg',
     type: 'Entire Flat',
     title: 'NEW lux. apartment in the center of Santa Cruz',
     bed: 3,
@@ -24,7 +24,7 @@ export default [
   },
   {
     id: '2',
-    image: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/3.jpg',
+    image: 'https://assets.bedful.com/images/a389095674a00fc76bb547969004246341780533/large/image.jpg',
     type: 'Private Property',
     title: 'Green House Santa Cruz',
     bed: 2,
@@ -35,7 +35,7 @@ export default [
   },
   {
     id: '3',
-    image: 'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/4.jpg',
+    image: 'https://assets.bedful.com/images/7439bcc6d9574e4009b65704c7e56558699ee185/large/image.jpg',
     type: 'Entire Flat',
     title: 'Typical canarian house',
     bed: 4,
