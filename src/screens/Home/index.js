@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import React from 'react';
 import {Text, View, ImageBackground, Pressable} from 'react-native';
-import styles from './style';
+import styles from './styles';
 import Fontisto from 'react-native-vector-icons/Fontisto';
 
 const HomeScreen = props => {
