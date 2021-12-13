@@ -4,6 +4,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 import DestinationSearchScreen from '../screens/DestinationSearch';
 import GuestsScreen from '../screens/Guests';
 import HomeTabNavigator from './HomeTabNavigator';
+import PostDetailedScreen from '../screens/PostDetailedScreen';
 
 const Stack = createStackNavigator();
 
@@ -30,6 +31,13 @@ const Router = () => {
           component={GuestsScreen}
           options={{
             title: 'How Many People?',
+          }}
+        />
+        <Stack.Screen
+          name={'Post'}
+          component={PostDetailedScreen}
+          options={{
+            title: 'Accomondation',
           }}
         />
       </Stack.Navigator>
